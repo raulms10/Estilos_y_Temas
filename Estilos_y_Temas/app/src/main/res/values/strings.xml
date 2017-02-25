@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Estilos_y_Temas</string>
+    <string name="hint">Ejemplo</string>
+    <string name="hint1">Ejemplo 2</string>
 </resources>
